@@ -4,7 +4,8 @@ kind: Component
 metadata:
     name: gitlab-test
     annotations:
-        gitlab.com/project-id: '47834958' #1234. This must be in quotes and can be found under Settings --> General
+        #gitlab.com/project-id: '47834958' #1234. This must be in quotes and can be found under Settings --> General
+        gitlab.com/project-slug: 'backdora-test'
 spec:
     type: service
     owner: john@example.com
