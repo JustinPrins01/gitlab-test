@@ -1,0 +1,10 @@
+# Example catalog-info.yaml entity definition file
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+    name: gitlab-test
+    annotations:
+        gitlab.com/project-id: '47834958' #1234. This must be in quotes and can be found under Settings --> General
+spec:
+    type: service
+    owner: john@example.com
