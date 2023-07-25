@@ -8,7 +8,7 @@ metadata:
         # gitlab.com/project-id: '572'
         #gitlab.com/project-id: '47834958' #1234. This must be in quotes and can be found under Settings --> General
         #gitlab.com/project-slug: 'backdora-test'
-        gitlab.com/project-slug: 'Backdora Test'
+        https://gitlab.logius.plp.cloud/project-slug: 'Backdora Test'
         
 spec:
     type: service
