@@ -5,8 +5,8 @@ metadata:
     name: gitlab-test2
     annotations:
         #gitlab.com/project-id: '567'
-        gitlab.com/project-id: '572'
-        gitlab.com/instance: 'gitlab.logius.plp.cloud'
+        gitlab.logius.plp.cloud/project-id: '572'
+        # gitlab.com/instance: 'gitlab.logius.plp.cloud'
         # gitlab.com/project-id: '47834958' #1234. This must be in quotes and can be found under Settings --> General
         #gitlab.com/project-slug: 'backdora-test'
         # gitlab.logius.plp.cloud/project-slug: 'Backdora Test'
